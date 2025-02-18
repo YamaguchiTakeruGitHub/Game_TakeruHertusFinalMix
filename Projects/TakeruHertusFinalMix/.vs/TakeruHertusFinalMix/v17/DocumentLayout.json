@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\",
+  "WorkspaceRootPath": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\UI\\Select\\Select.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\UI\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\UI\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\UI\\Select\\Select.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EBFC21C-B49E-4A81-BF2A-87B6462B051E}|TakeruHertusFinalMix\\TakeruHertusFinalMix.vcxproj|solutionrelative:TakeruHertusFinalMix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -92,22 +92,21 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "SceneGame.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneGame\\SceneGame.cpp",
               "ViewState": "AgIAAKECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T00:52:53.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:52:53.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SceneTitle.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.cpp",
               "ViewState": "AgIAAEgAAAAAAAAAAAAMwPgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -118,22 +117,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SceneTitle.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneTitle\\SceneTitle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-18T00:45:18.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:45:18.367Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "SceneManager.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneManager.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneManager.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -143,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "SceneManager.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneManager.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneManager.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -155,22 +153,21 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SceneBase.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-11T11:17:53.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T11:17:53.686Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "SceneBase.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneBase\\SceneBase.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -180,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SceneDebug.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.h",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -192,48 +189,45 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "SceneDebug.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\Scene\\SceneDebug\\SceneDebug.cpp",
               "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-11T10:23:11.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T10:23:11.689Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UIManager.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\UI\\UIManager.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\UI\\UIManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-11T09:54:28.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T09:54:28.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UIManager.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\UI\\UIManager.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\UIManager.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\UI\\UIManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-11T09:54:27.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T09:54:27.753Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "InputDeviceManager.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -243,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "JoyPad.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -255,9 +249,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "JoyPad.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\InputDevice\\JoyPad\\JoyPad.cpp",
               "ViewState": "AgIAAAsBAAAAAAAAAAAAADYBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -267,9 +261,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "InputDeviceManager.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\InputDevice\\InputDeviceManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -279,9 +273,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Select.h",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.h",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.h",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\UI\\Select\\Select.h",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.h",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.h",
               "RelativeToolTip": "TakeruHertusFinalMix\\UI\\Select\\Select.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -291,22 +285,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Select.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\UI\\Select\\Select.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\UI\\Select\\Select.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\UI\\Select\\Select.cpp",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-11T05:19:35.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T05:19:35.065Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Entity.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\Object\\Entity\\Entity.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -316,9 +309,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\main.cpp",
               "RelativeDocumentMoniker": "TakeruHertusFinalMix\\main.cpp",
-              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\\u30B2\u30FC\u30E0\u30D5\u30A1\u30A4\u30EB\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\main.cpp",
+              "ToolTip": "C:\\Users\\fko2347069\\Desktop\\Game_TakeruHertusFinalMix\\Projects\\TakeruHertusFinalMix\\TakeruHertusFinalMix\\main.cpp",
               "RelativeToolTip": "TakeruHertusFinalMix\\main.cpp",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
