@@ -1,0 +1,7 @@
+ID,Name,size,position.x,position.y,position.z,説明
+1,SpreadRing,50.0f,0.0f,2.0f,700.0f,リングが真ん中から徐々に広がるエフェクト
+2,SpreadRing,50.0f,680.0f,2.0f,700.0f,リングが真ん中から徐々に広がるエフェクト
+3,WeponGetEffect,50.0f,0.0f,2.0f,700.0f,efekut 
+4,SpownEffectL,50.1f,800.0f,2.0f,700.0f,efekut 
+5,SpownEffectF,50.2f,800.0f,2.0f,700.0f,efekut 
+6,SpownEffectR,50.3f,1200.0f,2.0f,700.0f,efekut 

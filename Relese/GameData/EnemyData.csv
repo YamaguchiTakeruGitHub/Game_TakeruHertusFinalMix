@@ -1,0 +1,2 @@
+ID,Name,speed,"scale(x,y,z)",chaseDistance(AI),attackDistance(AI),radius,size,ê‡ñæ
+1,fox,100.0f,0.08f,400.0f,100.0f,60.0f,20.0f,Enemy_FoxÇÃData

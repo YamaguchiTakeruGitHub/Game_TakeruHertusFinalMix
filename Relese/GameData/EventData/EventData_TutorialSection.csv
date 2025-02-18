@@ -1,0 +1,9 @@
+ID,IDName,name,number,explanation
+1,Section_1,m_MaxfadeAlpha,255,文字の最大透過
+2,Section_1,m_sectionMaxTime,300,イベントの長さ（300）
+3,Section_2,m_section_2_MaxTime,300,イベントの長さ(360)
+4,Section_2,m_section_2EventMaxTime,10,接触してからイベントに入る長さ
+5,Section_3,m_section_3MaxTime,500,
+6,section_4,m_section_4EventMaxTime,500,
+7,section_4,m_section_4EventMaxTime_2,800,
+8,,,,
